@@ -1,0 +1,135 @@
+.menu {
+    display: none;
+}
+
+.social-list {
+    display: none;
+}
+
+.header {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.open-mobile-menu-btn {
+    border: none;
+    background-color: transparent;
+    padding: 0;
+    line-height: 0;
+}
+
+.open-mobile-menu-icon{
+    stroke: #000;
+}
+
+
+/* .current::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -1px;
+    height: 4px;
+    background-color: #404bbf;
+    border-radius: 2px;
+    width: 100%;
+}
+
+.header {
+    border-bottom: 1px solid #e7e9fc;
+    box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
+        0px 1px 1px rgba(46, 47, 66, 0.16),
+        0px 1px 6px rgba(46, 47, 66, 0.08);
+    ;
+}
+
+.logotype-header {
+    margin-right: 76px;
+}
+
+.page-header-container {
+    display: flex;
+}
+
+.header-nav {
+    display: flex;
+    align-items: center;
+}
+
+.header-list {
+    display: flex;
+    gap: 40px;
+}
+
+.social-list {
+    display: flex;
+    gap: 40px;
+}
+
+.link {
+    text-decoration: none;
+    padding: 24px 0;
+    position: relative;
+    color: #2E2F42;
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    display: block;
+}
+
+.logotype {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #4d5ae5;
+    align-items: center;
+
+}
+
+.accent {
+    color: #2e2f42
+}
+
+.header-item {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+    list-style-type: none;
+}
+
+.social-link {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    list-style-type: none;
+    color: #434455;
+    display: block;
+    text-decoration: none;
+}
+
+.social-link:hover,
+.social-link:focus {
+    color: #404BBF
+}
+
+.social-item {
+    list-style-type: none;
+}
+
+.link:hover,
+.link:focus {
+    color: #404BBF;
+}
+
+
+
+.social-adress {
+    font-style: normal;
+    margin-left: auto;
+    margin-top: 24px;
+
+
+} */
